@@ -1,4 +1,3 @@
-#CodeRunner.in
 from tkinter import *
 
 # Create a Tkinter window
